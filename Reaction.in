@@ -1,26 +1,6 @@
-  gCN  + Na2S     =   gCN_Na2S*  
-  gCN  + Na2S2    =   gCN_Na2S2* 
-  gCN  + Na2S4    =   gCN_Na2S4* 
-  gCN  + Na2S6    =   gCN_Na2S6* 
-  gCN  + Na2S8    =   gCN_Na2S8* 
-  melon  + Na2S     =   melon_Na2S*  
-  melon  + Na2S2    =   melon_Na2S2* 
-  melon  + Na2S4    =   melon_Na2S4* 
-  melon  + Na2S6    =   melon_Na2S6* 
-  melon  + Na2S8    =   melon_Na2S8* 
-  gr  + Na2S     =   gr_Na2S*  
+gr  + Na2S     =   gr_Na2S*  
   gr  + Na2S2    =   gr_Na2S2* 
   gr  + Na2S4    =   gr_Na2S4* 
   gr  + Na2S6    =   gr_Na2S6* 
   gr  + Na2S8    =   gr_Na2S8* 
-  N3gr  + Na2S     =   N3gr_Na2S*  
-  N3gr  + Na2S2    =   N3gr_Na2S2* 
-  N3gr  + Na2S4    =   N3gr_Na2S4* 
-  N3gr  + Na2S6    =   N3gr_Na2S6* 
-  N3gr  + Na2S8    =   N3gr_Na2S8* 
-  N4gr  + Na2S     =   N4gr_Na2S*  
-  N4gr  + Na2S2    =   N4gr_Na2S2* 
-  N4gr  + Na2S4    =   N4gr_Na2S4* 
-  N4gr  + Na2S6    =   N4gr_Na2S6* 
-  N4gr  + Na2S8    =   N4gr_Na2S8* 
 
